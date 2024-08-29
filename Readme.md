@@ -16,3 +16,7 @@ This project demonstrates various layouts related to `ScrollView` in SwiftUI, in
    - Implements a centered scroll layout similar to the Snapchat camera interface.
    - Ensures that content remains centered, making it perfect for camera-style UI or other scroll-based layouts that require a fixed center element.
 
+## DEMO
+
+https://github.com/user-attachments/assets/740595ed-a17e-4175-b2ab-597e14eb2959
+
